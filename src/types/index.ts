@@ -46,6 +46,7 @@ export interface KaraokeState {
   audioBuffer: AudioBuffer | null;
   audioSource: AudioBufferSourceNode | null;
   isPlaying: boolean;
+  isPlaybackMode: boolean;
   currentTime: number;
   duration: number;
   volume: number;

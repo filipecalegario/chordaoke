@@ -6,6 +6,7 @@ const useKaraokeStore = create<KaraokeState>((set, get) => ({
   audioBuffer: null,
   audioSource: null,
   isPlaying: false,
+  isPlaybackMode: false,
   currentTime: 0,
   duration: 0,
   volume: 1,

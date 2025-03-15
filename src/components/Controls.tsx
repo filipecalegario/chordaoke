@@ -1,6 +1,6 @@
 import React from 'react';
 import * as Slider from '@radix-ui/react-slider';
-import { Play, Pause, Volume2, VolumeX } from 'lucide-react';
+import { Play, Pause, Volume2, VolumeX, Upload } from 'lucide-react';
 import useKaraokeStore from '../store';
 
 const Controls: React.FC = () => {
@@ -52,8 +52,17 @@ const Controls: React.FC = () => {
     }
   };
 
+  const handleBackToUpload = () => {
+    // Stop any playback
+    if (isPlaying) {
+      pausePlayback();
+    }
+    // Set isPlaybackMode to false to return to upload page
+    useKaraokeStore.setState({ isPlaybackMode: false });
+  };
+
   return (
-    <div className="fixed bottom-0 left-0 right-0 bg-white dark:bg-gray-800 border-t border-gray-200 dark:border-gray-700 p-4">
+    <div className="bg-white dark:bg-gray-800 border-b border-gray-200 dark:border-gray-700 p-4">
       <div className="max-w-3xl mx-auto flex items-center gap-4">
         <button
           onClick={handlePlayPause}
@@ -117,6 +126,14 @@ const Controls: React.FC = () => {
             />
           </Slider.Root>
         </div>
+
+        <button
+          onClick={handleBackToUpload}
+          className="ml-auto p-2 flex items-center gap-1 text-sm rounded bg-gray-100 hover:bg-gray-200 dark:bg-gray-700 dark:hover:bg-gray-600"
+        >
+          <Upload className="w-4 h-4" />
+          <span>Back to Upload</span>
+        </button>
       </div>
     </div>
   );

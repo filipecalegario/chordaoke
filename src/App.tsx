@@ -6,7 +6,7 @@ import FileUpload from './components/FileUpload';
 import useKaraokeStore from './store';
 
 function App() {
-  const { isPlaying } = useKaraokeStore();
+  const { isPlaybackMode, audioBuffer, lyrics, chords } = useKaraokeStore();
 
   const initializeAudio = async () => {
     const audioContext = new AudioContext();
@@ -19,14 +19,25 @@ function App() {
 
   return (
     <div className="min-h-screen bg-gray-50 dark:bg-gray-900">
-      <div className="flex flex-col h-screen">
-        {!isPlaying && <FileUpload />}
-        <div className={`flex flex-col h-screen ${isPlaying ? '' : 'opacity-50'}`}>
-          <ChordDisplay />
-          <LyricDisplay />
-          <Controls />
+      {!isPlaybackMode ? (
+        // Upload Page
+        <div className="flex items-center justify-center min-h-screen py-8">
+          <FileUpload />
         </div>
-      </div>
+      ) : (
+        // Playback Page
+        <div className="flex flex-col h-screen">
+          <div className="p-4">
+            <Controls />
+          </div>
+          <div className="p-4">
+            <ChordDisplay />
+          </div>
+          <div className="flex-grow overflow-auto">
+            <LyricDisplay />
+          </div>
+        </div>
+      )}
     </div>
   );
 }
