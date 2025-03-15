@@ -1,0 +1,2897 @@
+[
+{
+    "start": 13.65,
+    "end": 19.37,
+    "text": "Se minha vida \u00e9 errada",
+    "language": "portuguese",
+    "words": [
+    {
+        "word": "Se",
+        "start": 13.65,
+        "end": 13.79,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "Se",
+            "start": 13.65,
+            "end": 13.79
+        }]
+    },
+    {
+        "word": "minha",
+        "start": 13.79,
+        "end": 14.28,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "mi",
+            "start": 13.79,
+            "end": 13.9
+        },
+        {
+            "syllable": "nha",
+            "start": 13.9,
+            "end": 14.28
+        }]
+    },
+    {
+        "word": "vida",
+        "start": 14.28,
+        "end": 14.52,
+        "score": 0.97,
+        "syllables": [
+        {
+            "syllable": "vi",
+            "start": 14.28,
+            "end": 14.38
+        },
+        {
+            "syllable": "da",
+            "start": 14.38,
+            "end": 14.52
+        }]
+    },
+    {
+        "word": "\u00e9",
+        "start": 14.52,
+        "end": 15.78,
+        "score": 0.95,
+        "syllables": [
+        {
+            "syllable": "\u00e9",
+            "start": 14.52,
+            "end": 15.78
+        }]
+    },
+    {
+        "word": "errada",
+        "start": 15.81,
+        "end": 19.37,
+        "score": 0.94,
+        "syllables": [
+        {
+            "syllable": "er",
+            "start": 15.81,
+            "end": 15.99
+        },
+        {
+            "syllable": "ra",
+            "start": 15.99,
+            "end": 19.3
+        },
+        {
+            "syllable": "da",
+            "start": 19.3,
+            "end": 19.37
+        }]
+    }]
+},
+{
+    "start": 19.37,
+    "end": 26.3,
+    "text": "Ningu\u00e9m tem nada com isto",
+    "language": "portuguese",
+    "words": [
+    {
+        "word": "Ningu\u00e9m",
+        "start": 19.37,
+        "end": 20.1,
+        "score": 0.93,
+        "syllables": [
+        {
+            "syllable": "Nin",
+            "start": 19.37,
+            "end": 19.68
+        },
+        {
+            "syllable": "gu\u00e9m",
+            "start": 19.68,
+            "end": 20.1
+        }]
+    },
+    {
+        "word": "tem",
+        "start": 20.1,
+        "end": 20.34,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "tem",
+            "start": 20.1,
+            "end": 20.34
+        }]
+    },
+    {
+        "word": "nada",
+        "start": 20.38,
+        "end": 21.28,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "na",
+            "start": 20.38,
+            "end": 20.45
+        },
+        {
+            "syllable": "da",
+            "start": 20.45,
+            "end": 21.28
+        }]
+    },
+    {
+        "word": "com",
+        "start": 21.28,
+        "end": 21.42,
+        "score": 0.94,
+        "syllables": [
+        {
+            "syllable": "com",
+            "start": 21.28,
+            "end": 21.42
+        }]
+    },
+    {
+        "word": "isto",
+        "start": 21.46,
+        "end": 26.3,
+        "score": 0.85,
+        "syllables": [
+        {
+            "syllable": "is",
+            "start": 21.46,
+            "end": 22.08
+        },
+        {
+            "syllable": "to",
+            "start": 22.08,
+            "end": 26.3
+        }]
+    }]
+},
+{
+    "start": 26.3,
+    "end": 29.57,
+    "text": "Eu posso fazer o que quero",
+    "language": "portuguese",
+    "words": [
+    {
+        "word": "Eu",
+        "start": 26.3,
+        "end": 26.51,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "Eu",
+            "start": 26.3,
+            "end": 26.51
+        }]
+    },
+    {
+        "word": "posso",
+        "start": 26.54,
+        "end": 26.96,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "pos",
+            "start": 26.54,
+            "end": 26.75
+        },
+        {
+            "syllable": "so",
+            "start": 26.75,
+            "end": 26.96
+        }]
+    },
+    {
+        "word": "fazer",
+        "start": 26.96,
+        "end": 27.48,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "fa",
+            "start": 26.96,
+            "end": 27.06
+        },
+        {
+            "syllable": "zer",
+            "start": 27.06,
+            "end": 27.48
+        }]
+    },
+    {
+        "word": "o",
+        "start": 27.48,
+        "end": 27.59,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "o",
+            "start": 27.48,
+            "end": 27.59
+        }]
+    },
+    {
+        "word": "que",
+        "start": 27.69,
+        "end": 27.79,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "que",
+            "start": 27.69,
+            "end": 27.79
+        }]
+    },
+    {
+        "word": "quero",
+        "start": 27.93,
+        "end": 29.57,
+        "score": 0.97,
+        "syllables": [
+        {
+            "syllable": "que",
+            "start": 27.93,
+            "end": 28.04
+        },
+        {
+            "syllable": "ro",
+            "start": 28.04,
+            "end": 29.57
+        }]
+    }]
+},
+{
+    "start": 29.57,
+    "end": 32.46,
+    "text": "Eu posso dizer o que penso",
+    "language": "portuguese",
+    "words": [
+    {
+        "word": "Eu",
+        "start": 29.57,
+        "end": 29.81,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "Eu",
+            "start": 29.57,
+            "end": 29.81
+        }]
+    },
+    {
+        "word": "posso",
+        "start": 29.85,
+        "end": 30.34,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "pos",
+            "start": 29.85,
+            "end": 30.09
+        },
+        {
+            "syllable": "so",
+            "start": 30.09,
+            "end": 30.34
+        }]
+    },
+    {
+        "word": "dizer",
+        "start": 30.34,
+        "end": 30.79,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "di",
+            "start": 30.34,
+            "end": 30.44
+        },
+        {
+            "syllable": "zer",
+            "start": 30.44,
+            "end": 30.79
+        }]
+    },
+    {
+        "word": "o",
+        "start": 30.79,
+        "end": 30.86,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "o",
+            "start": 30.79,
+            "end": 30.86
+        }]
+    },
+    {
+        "word": "que",
+        "start": 31.03,
+        "end": 31.14,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "que",
+            "start": 31.03,
+            "end": 31.14
+        }]
+    },
+    {
+        "word": "penso",
+        "start": 31.24,
+        "end": 32.46,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "pen",
+            "start": 31.24,
+            "end": 31.52
+        },
+        {
+            "syllable": "so",
+            "start": 31.52,
+            "end": 32.46
+        }]
+    }]
+},
+{
+    "start": 32.46,
+    "end": 38.28,
+    "text": "N\u00e3o tem ningu\u00e9m que mande em mim",
+    "language": "portuguese",
+    "words": [
+    {
+        "word": "N\u00e3o",
+        "start": 32.46,
+        "end": 32.67,
+        "score": 0.97,
+        "syllables": [
+        {
+            "syllable": "N\u00e3o",
+            "start": 32.46,
+            "end": 32.67
+        }]
+    },
+    {
+        "word": "tem",
+        "start": 32.71,
+        "end": 32.88,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "tem",
+            "start": 32.71,
+            "end": 32.88
+        }]
+    },
+    {
+        "word": "ningu\u00e9m",
+        "start": 32.91,
+        "end": 33.4,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "nin",
+            "start": 32.91,
+            "end": 33.05
+        },
+        {
+            "syllable": "gu\u00e9m",
+            "start": 33.05,
+            "end": 33.4
+        }]
+    },
+    {
+        "word": "que",
+        "start": 33.4,
+        "end": 33.72,
+        "score": 0.96,
+        "syllables": [
+        {
+            "syllable": "que",
+            "start": 33.4,
+            "end": 33.72
+        }]
+    },
+    {
+        "word": "mande",
+        "start": 33.82,
+        "end": 34.34,
+        "score": 0.93,
+        "syllables": [
+        {
+            "syllable": "man",
+            "start": 33.82,
+            "end": 34.1
+        },
+        {
+            "syllable": "de",
+            "start": 34.1,
+            "end": 34.34
+        }]
+    },
+    {
+        "word": "em",
+        "start": 34.34,
+        "end": 34.55,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "em",
+            "start": 34.34,
+            "end": 34.55
+        }]
+    },
+    {
+        "word": "mim",
+        "start": 34.59,
+        "end": 38.28,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "mim",
+            "start": 34.59,
+            "end": 38.28
+        }]
+    }]
+},
+{
+    "start": 38.31,
+    "end": 40.67,
+    "text": "N\u00e3o vai ser voc\u00ea",
+    "language": "portuguese",
+    "words": [
+    {
+        "word": "N\u00e3o",
+        "start": 38.31,
+        "end": 38.66,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "N\u00e3o",
+            "start": 38.31,
+            "end": 38.66
+        }]
+    },
+    {
+        "word": "vai",
+        "start": 38.73,
+        "end": 38.84,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "vai",
+            "start": 38.73,
+            "end": 38.84
+        }]
+    },
+    {
+        "word": "ser",
+        "start": 38.97,
+        "end": 39.32,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "ser",
+            "start": 38.97,
+            "end": 39.32
+        }]
+    },
+    {
+        "word": "voc\u00ea",
+        "start": 39.39,
+        "end": 40.67,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "vo",
+            "start": 39.39,
+            "end": 39.5
+        },
+        {
+            "syllable": "c\u00ea",
+            "start": 39.5,
+            "end": 40.67
+        }]
+    }]
+},
+{
+    "start": 44.09,
+    "end": 47.1,
+    "text": "J\u00e1 passei na sua vida",
+    "language": "portuguese",
+    "words": [
+    {
+        "word": "J\u00e1",
+        "start": 44.09,
+        "end": 44.2,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "J\u00e1",
+            "start": 44.09,
+            "end": 44.2
+        }]
+    },
+    {
+        "word": "passei",
+        "start": 44.48,
+        "end": 45.35,
+        "score": 0.96,
+        "syllables": [
+        {
+            "syllable": "pas",
+            "start": 44.48,
+            "end": 44.83
+        },
+        {
+            "syllable": "sei",
+            "start": 44.83,
+            "end": 45.35
+        }]
+    },
+    {
+        "word": "na",
+        "start": 45.35,
+        "end": 45.45,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "na",
+            "start": 45.35,
+            "end": 45.45
+        }]
+    },
+    {
+        "word": "sua",
+        "start": 45.8,
+        "end": 46.11,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "sua",
+            "start": 45.8,
+            "end": 46.11
+        }]
+    },
+    {
+        "word": "vida",
+        "start": 46.25,
+        "end": 47.1,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "vi",
+            "start": 46.25,
+            "end": 46.36
+        },
+        {
+            "syllable": "da",
+            "start": 46.36,
+            "end": 47.1
+        }]
+    }]
+},
+{
+    "start": 50.61,
+    "end": 53.75,
+    "text": "E minha vida esqueci",
+    "language": "portuguese",
+    "words": [
+    {
+        "word": "E",
+        "start": 50.61,
+        "end": 50.75,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "E",
+            "start": 50.61,
+            "end": 50.75
+        }]
+    },
+    {
+        "word": "minha",
+        "start": 50.82,
+        "end": 51.41,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "mi",
+            "start": 50.82,
+            "end": 50.96
+        },
+        {
+            "syllable": "nha",
+            "start": 50.96,
+            "end": 51.41
+        }]
+    },
+    {
+        "word": "vida",
+        "start": 51.41,
+        "end": 51.97,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "vi",
+            "start": 51.41,
+            "end": 51.51
+        },
+        {
+            "syllable": "da",
+            "start": 51.51,
+            "end": 51.97
+        }]
+    },
+    {
+        "word": "esqueci",
+        "start": 51.97,
+        "end": 53.75,
+        "score": 0.93,
+        "syllables": [
+        {
+            "syllable": "es",
+            "start": 51.97,
+            "end": 52.66
+        },
+        {
+            "syllable": "que",
+            "start": 52.66,
+            "end": 53.25
+        },
+        {
+            "syllable": "ci",
+            "start": 53.25,
+            "end": 53.75
+        }]
+    }]
+},
+{
+    "start": 57.12,
+    "end": 60.02,
+    "text": "Quem quiser que fale de mim",
+    "language": "portuguese",
+    "words": [
+    {
+        "word": "Quem",
+        "start": 57.12,
+        "end": 57.54,
+        "score": 0.94,
+        "syllables": [
+        {
+            "syllable": "Quem",
+            "start": 57.12,
+            "end": 57.54
+        }]
+    },
+    {
+        "word": "quiser",
+        "start": 57.61,
+        "end": 58.24,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "qui",
+            "start": 57.61,
+            "end": 57.71
+        },
+        {
+            "syllable": "ser",
+            "start": 57.71,
+            "end": 58.24
+        }]
+    },
+    {
+        "word": "que",
+        "start": 58.24,
+        "end": 58.44,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "que",
+            "start": 58.24,
+            "end": 58.44
+        }]
+    },
+    {
+        "word": "fale",
+        "start": 58.48,
+        "end": 59.25,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "fa",
+            "start": 58.48,
+            "end": 58.58
+        },
+        {
+            "syllable": "le",
+            "start": 58.58,
+            "end": 59.25
+        }]
+    },
+    {
+        "word": "de",
+        "start": 59.25,
+        "end": 59.35,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "de",
+            "start": 59.25,
+            "end": 59.35
+        }]
+    },
+    {
+        "word": "mim",
+        "start": 59.52,
+        "end": 60.02,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "mim",
+            "start": 59.52,
+            "end": 60.02
+        }]
+    }]
+},
+{
+    "start": 60.08,
+    "end": 62.22,
+    "text": "'t\u00f4 nem a\u00ed, 't\u00f4 nem a\u00ed",
+    "language": "portuguese",
+    "words": [
+    {
+        "word": "'t\u00f4",
+        "start": 60.08,
+        "end": 60.22,
+        "score": 0.62,
+        "syllables": [
+        {
+            "syllable": "'t\u00f4",
+            "start": 60.08,
+            "end": 60.22
+        }]
+    },
+    {
+        "word": "nem",
+        "start": 60.33,
+        "end": 60.46,
+        "score": 0.53,
+        "syllables": [
+        {
+            "syllable": "nem",
+            "start": 60.33,
+            "end": 60.46
+        }]
+    },
+    {
+        "word": "a\u00ed,",
+        "start": 60.5,
+        "end": 60.81,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "a\u00ed,",
+            "start": 60.5,
+            "end": 60.81
+        }]
+    },
+    {
+        "word": "'t\u00f4",
+        "start": 61.27,
+        "end": 61.41,
+        "score": 0.78,
+        "syllables": [
+        {
+            "syllable": "'t\u00f4",
+            "start": 61.27,
+            "end": 61.41
+        }]
+    },
+    {
+        "word": "nem",
+        "start": 61.51,
+        "end": 61.65,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "nem",
+            "start": 61.51,
+            "end": 61.65
+        }]
+    },
+    {
+        "word": "a\u00ed",
+        "start": 61.72,
+        "end": 62.22,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "a\u00ed",
+            "start": 61.72,
+            "end": 62.22
+        }]
+    }]
+},
+{
+    "start": 63.74,
+    "end": 70.13,
+    "text": "E pra ele s\u00f3 tenho a dizer",
+    "language": "portuguese",
+    "words": [
+    {
+        "word": "E",
+        "start": 63.74,
+        "end": 63.84,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "E",
+            "start": 63.74,
+            "end": 63.84
+        }]
+    },
+    {
+        "word": "pra",
+        "start": 64.09,
+        "end": 64.23,
+        "score": 0.94,
+        "syllables": [
+        {
+            "syllable": "pra",
+            "start": 64.09,
+            "end": 64.23
+        }]
+    },
+    {
+        "word": "ele",
+        "start": 64.4,
+        "end": 64.75,
+        "score": 0.95,
+        "syllables": [
+        {
+            "syllable": "ele",
+            "start": 64.4,
+            "end": 64.75
+        }]
+    },
+    {
+        "word": "s\u00f3",
+        "start": 64.96,
+        "end": 65.1,
+        "score": 0.92,
+        "syllables": [
+        {
+            "syllable": "s\u00f3",
+            "start": 64.96,
+            "end": 65.1
+        }]
+    },
+    {
+        "word": "tenho",
+        "start": 65.27,
+        "end": 66.46,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "te",
+            "start": 65.27,
+            "end": 65.34
+        },
+        {
+            "syllable": "nho",
+            "start": 65.34,
+            "end": 66.46
+        }]
+    },
+    {
+        "word": "a",
+        "start": 66.46,
+        "end": 66.56,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "a",
+            "start": 66.46,
+            "end": 66.56
+        }]
+    },
+    {
+        "word": "dizer",
+        "start": 68.79,
+        "end": 70.13,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "di",
+            "start": 68.79,
+            "end": 68.96
+        },
+        {
+            "syllable": "zer",
+            "start": 68.96,
+            "end": 70.13
+        }]
+    }]
+},
+{
+    "start": 71.96,
+    "end": 74.93,
+    "text": "Se quiser fumar eu fumo",
+    "language": "portuguese",
+    "words": [
+    {
+        "word": "Se",
+        "start": 71.96,
+        "end": 72.06,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "Se",
+            "start": 71.96,
+            "end": 72.06
+        }]
+    },
+    {
+        "word": "quiser",
+        "start": 72.13,
+        "end": 73.07,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "qui",
+            "start": 72.13,
+            "end": 72.38
+        },
+        {
+            "syllable": "ser",
+            "start": 72.38,
+            "end": 73.07
+        }]
+    },
+    {
+        "word": "fumar",
+        "start": 73.07,
+        "end": 73.56,
+        "score": 0.96,
+        "syllables": [
+        {
+            "syllable": "fu",
+            "start": 73.07,
+            "end": 73.18
+        },
+        {
+            "syllable": "mar",
+            "start": 73.18,
+            "end": 73.56
+        }]
+    },
+    {
+        "word": "eu",
+        "start": 73.56,
+        "end": 73.8,
+        "score": 0.8,
+        "syllables": [
+        {
+            "syllable": "eu",
+            "start": 73.56,
+            "end": 73.8
+        }]
+    },
+    {
+        "word": "fumo",
+        "start": 73.91,
+        "end": 74.93,
+        "score": 0.94,
+        "syllables": [
+        {
+            "syllable": "fu",
+            "start": 73.91,
+            "end": 74.05
+        },
+        {
+            "syllable": "mo",
+            "start": 74.05,
+            "end": 74.93
+        }]
+    }]
+},
+{
+    "start": 75.27,
+    "end": 78.31,
+    "text": "Se quiser beber eu bebo",
+    "language": "portuguese",
+    "words": [
+    {
+        "word": "Se",
+        "start": 75.27,
+        "end": 75.41,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "Se",
+            "start": 75.27,
+            "end": 75.41
+        }]
+    },
+    {
+        "word": "quiser",
+        "start": 75.48,
+        "end": 76.38,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "qui",
+            "start": 75.48,
+            "end": 75.72
+        },
+        {
+            "syllable": "ser",
+            "start": 75.72,
+            "end": 76.38
+        }]
+    },
+    {
+        "word": "beber",
+        "start": 76.38,
+        "end": 76.94,
+        "score": 0.95,
+        "syllables": [
+        {
+            "syllable": "be",
+            "start": 76.38,
+            "end": 76.49
+        },
+        {
+            "syllable": "ber",
+            "start": 76.49,
+            "end": 76.94
+        }]
+    },
+    {
+        "word": "eu",
+        "start": 76.94,
+        "end": 77.25,
+        "score": 0.97,
+        "syllables": [
+        {
+            "syllable": "eu",
+            "start": 76.94,
+            "end": 77.25
+        }]
+    },
+    {
+        "word": "bebo",
+        "start": 77.32,
+        "end": 78.31,
+        "score": 0.97,
+        "syllables": [
+        {
+            "syllable": "be",
+            "start": 77.32,
+            "end": 77.39
+        },
+        {
+            "syllable": "bo",
+            "start": 77.39,
+            "end": 78.31
+        }]
+    }]
+},
+{
+    "start": 79.27,
+    "end": 82.66,
+    "text": "Minha liberdade 't\u00e1 a\u00ed, 't\u00e1 a\u00ed",
+    "language": "portuguese",
+    "words": [
+    {
+        "word": "Minha",
+        "start": 79.27,
+        "end": 79.52,
+        "score": 0.94,
+        "syllables": [
+        {
+            "syllable": "Mi",
+            "start": 79.27,
+            "end": 79.41
+        },
+        {
+            "syllable": "nha",
+            "start": 79.41,
+            "end": 79.52
+        }]
+    },
+    {
+        "word": "liberdade",
+        "start": 79.52,
+        "end": 80.39,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "li",
+            "start": 79.52,
+            "end": 79.59
+        },
+        {
+            "syllable": "ber",
+            "start": 79.59,
+            "end": 79.93
+        },
+        {
+            "syllable": "da",
+            "start": 79.93,
+            "end": 80.25
+        },
+        {
+            "syllable": "de",
+            "start": 80.25,
+            "end": 80.39
+        }]
+    },
+    {
+        "word": "'t\u00e1",
+        "start": 80.39,
+        "end": 80.49,
+        "score": 0.64,
+        "syllables": [
+        {
+            "syllable": "'t\u00e1",
+            "start": 80.39,
+            "end": 80.49
+        }]
+    },
+    {
+        "word": "a\u00ed,",
+        "start": 80.63,
+        "end": 80.81,
+        "score": 0.93,
+        "syllables": [
+        {
+            "syllable": "a\u00ed,",
+            "start": 80.63,
+            "end": 80.81
+        }]
+    },
+    {
+        "word": "'t\u00e1",
+        "start": 81.85,
+        "end": 81.95,
+        "score": 0.69,
+        "syllables": [
+        {
+            "syllable": "'t\u00e1",
+            "start": 81.85,
+            "end": 81.95
+        }]
+    },
+    {
+        "word": "a\u00ed",
+        "start": 82.16,
+        "end": 82.66,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "a\u00ed",
+            "start": 82.16,
+            "end": 82.66
+        }]
+    }]
+},
+{
+    "start": 84.99,
+    "end": 87.61,
+    "text": "Se quiser sair eu saio",
+    "language": "portuguese",
+    "words": [
+    {
+        "word": "Se",
+        "start": 84.99,
+        "end": 85.12,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "Se",
+            "start": 84.99,
+            "end": 85.12
+        }]
+    },
+    {
+        "word": "quiser",
+        "start": 85.19,
+        "end": 86.0,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "qui",
+            "start": 85.19,
+            "end": 85.44
+        },
+        {
+            "syllable": "ser",
+            "start": 85.44,
+            "end": 86.0
+        }]
+    },
+    {
+        "word": "sair",
+        "start": 86.0,
+        "end": 86.17,
+        "score": 0.52,
+        "syllables": [
+        {
+            "syllable": "sair",
+            "start": 86.0,
+            "end": 86.17
+        }]
+    },
+    {
+        "word": "eu",
+        "start": 86.34,
+        "end": 86.94,
+        "score": 0.57,
+        "syllables": [
+        {
+            "syllable": "eu",
+            "start": 86.34,
+            "end": 86.94
+        }]
+    },
+    {
+        "word": "saio",
+        "start": 87.11,
+        "end": 87.61,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "saio",
+            "start": 87.11,
+            "end": 87.61
+        }]
+    }]
+},
+{
+    "start": 88.29,
+    "end": 91.55,
+    "text": "Com quem me der vontade",
+    "language": "portuguese",
+    "words": [
+    {
+        "word": "Com",
+        "start": 88.29,
+        "end": 88.57,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "Com",
+            "start": 88.29,
+            "end": 88.57
+        }]
+    },
+    {
+        "word": "quem",
+        "start": 88.71,
+        "end": 89.06,
+        "score": 0.7,
+        "syllables": [
+        {
+            "syllable": "quem",
+            "start": 88.71,
+            "end": 89.06
+        }]
+    },
+    {
+        "word": "me",
+        "start": 89.16,
+        "end": 89.23,
+        "score": 0.65,
+        "syllables": [
+        {
+            "syllable": "me",
+            "start": 89.16,
+            "end": 89.23
+        }]
+    },
+    {
+        "word": "der",
+        "start": 89.51,
+        "end": 89.93,
+        "score": 0.95,
+        "syllables": [
+        {
+            "syllable": "der",
+            "start": 89.51,
+            "end": 89.93
+        }]
+    },
+    {
+        "word": "vontade",
+        "start": 90.0,
+        "end": 91.55,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "von",
+            "start": 90.0,
+            "end": 90.24
+        },
+        {
+            "syllable": "ta",
+            "start": 90.24,
+            "end": 91.05
+        },
+        {
+            "syllable": "de",
+            "start": 91.05,
+            "end": 91.55
+        }]
+    }]
+},
+{
+    "start": 92.4,
+    "end": 94.19,
+    "text": "Minha liberdade 't\u00e1 a\u00ed, 't\u00e1 a\u00ed",
+    "language": "portuguese",
+    "words": [
+    {
+        "word": "Minha",
+        "start": 92.4,
+        "end": 92.61,
+        "score": 0.97,
+        "syllables": [
+        {
+            "syllable": "Mi",
+            "start": 92.4,
+            "end": 92.51
+        },
+        {
+            "syllable": "nha",
+            "start": 92.51,
+            "end": 92.61
+        }]
+    },
+    {
+        "word": "liberdade",
+        "start": 92.61,
+        "end": 93.03,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "li",
+            "start": 92.61,
+            "end": 92.68
+        },
+        {
+            "syllable": "ber",
+            "start": 92.68,
+            "end": 92.86
+        },
+        {
+            "syllable": "da",
+            "start": 92.86,
+            "end": 92.96
+        },
+        {
+            "syllable": "de",
+            "start": 92.96,
+            "end": 93.03
+        }]
+    },
+    {
+        "word": "'t\u00e1",
+        "start": 93.03,
+        "end": 93.1,
+        "score": 0.82,
+        "syllables": [
+        {
+            "syllable": "'t\u00e1",
+            "start": 93.03,
+            "end": 93.1
+        }]
+    },
+    {
+        "word": "a\u00ed,",
+        "start": 93.24,
+        "end": 93.34,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "a\u00ed,",
+            "start": 93.24,
+            "end": 93.34
+        }]
+    },
+    {
+        "word": "'t\u00e1",
+        "start": 93.41,
+        "end": 93.55,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "'t\u00e1",
+            "start": 93.41,
+            "end": 93.55
+        }]
+    },
+    {
+        "word": "a\u00ed",
+        "start": 93.69,
+        "end": 94.19,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "a\u00ed",
+            "start": 93.69,
+            "end": 94.19
+        }]
+    }]
+},
+{
+    "start": 94.98,
+    "end": 102.62,
+    "text": "\u00c9 o conde e a banda sobrega pra voc\u00ea",
+    "language": "portuguese",
+    "words": [
+    {
+        "word": "\u00c9",
+        "start": 94.98,
+        "end": 98.53,
+        "score": 0.95,
+        "syllables": [
+        {
+            "syllable": "\u00c9",
+            "start": 94.98,
+            "end": 98.53
+        }]
+    },
+    {
+        "word": "o",
+        "start": 98.57,
+        "end": 98.6,
+        "score": 0.79,
+        "syllables": [
+        {
+            "syllable": "o",
+            "start": 98.57,
+            "end": 98.6
+        }]
+    },
+    {
+        "word": "conde",
+        "start": 98.74,
+        "end": 99.06,
+        "score": 0.63,
+        "syllables": [
+        {
+            "syllable": "con",
+            "start": 98.74,
+            "end": 98.95
+        },
+        {
+            "syllable": "de",
+            "start": 98.95,
+            "end": 99.06
+        }]
+    },
+    {
+        "word": "e",
+        "start": 99.06,
+        "end": 99.13,
+        "score": 0.83,
+        "syllables": [
+        {
+            "syllable": "e",
+            "start": 99.06,
+            "end": 99.13
+        }]
+    },
+    {
+        "word": "a",
+        "start": 99.65,
+        "end": 99.79,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "a",
+            "start": 99.65,
+            "end": 99.79
+        }]
+    },
+    {
+        "word": "banda",
+        "start": 99.82,
+        "end": 100.55,
+        "score": 0.59,
+        "syllables": [
+        {
+            "syllable": "ban",
+            "start": 99.82,
+            "end": 100.21
+        },
+        {
+            "syllable": "da",
+            "start": 100.21,
+            "end": 100.55
+        }]
+    },
+    {
+        "word": "sobrega",
+        "start": 100.55,
+        "end": 101.74,
+        "score": 0.7,
+        "syllables": [
+        {
+            "syllable": "so",
+            "start": 100.55,
+            "end": 100.62
+        },
+        {
+            "syllable": "bre",
+            "start": 100.62,
+            "end": 100.97
+        },
+        {
+            "syllable": "ga",
+            "start": 100.97,
+            "end": 101.74
+        }]
+    },
+    {
+        "word": "pra",
+        "start": 101.74,
+        "end": 101.88,
+        "score": 0.63,
+        "syllables": [
+        {
+            "syllable": "pra",
+            "start": 101.74,
+            "end": 101.88
+        }]
+    },
+    {
+        "word": "voc\u00ea",
+        "start": 101.91,
+        "end": 102.62,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "vo",
+            "start": 101.91,
+            "end": 102.02
+        },
+        {
+            "syllable": "c\u00ea",
+            "start": 102.02,
+            "end": 102.62
+        }]
+    }]
+},
+{
+    "start": 111.21,
+    "end": 114.22,
+    "text": "J\u00e1 passei na sua vida",
+    "language": "portuguese",
+    "words": [
+    {
+        "word": "J\u00e1",
+        "start": 111.21,
+        "end": 111.35,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "J\u00e1",
+            "start": 111.21,
+            "end": 111.35
+        }]
+    },
+    {
+        "word": "passei",
+        "start": 111.6,
+        "end": 112.47,
+        "score": 0.96,
+        "syllables": [
+        {
+            "syllable": "pas",
+            "start": 111.6,
+            "end": 111.98
+        },
+        {
+            "syllable": "sei",
+            "start": 111.98,
+            "end": 112.47
+        }]
+    },
+    {
+        "word": "na",
+        "start": 112.47,
+        "end": 112.54,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "na",
+            "start": 112.47,
+            "end": 112.54
+        }]
+    },
+    {
+        "word": "sua",
+        "start": 112.95,
+        "end": 113.27,
+        "score": 0.97,
+        "syllables": [
+        {
+            "syllable": "sua",
+            "start": 112.95,
+            "end": 113.27
+        }]
+    },
+    {
+        "word": "vida",
+        "start": 113.44,
+        "end": 114.22,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "vi",
+            "start": 113.44,
+            "end": 113.55
+        },
+        {
+            "syllable": "da",
+            "start": 113.55,
+            "end": 114.22
+        }]
+    }]
+},
+{
+    "start": 117.76,
+    "end": 120.87,
+    "text": "E minha vida esqueci",
+    "language": "portuguese",
+    "words": [
+    {
+        "word": "E",
+        "start": 117.76,
+        "end": 117.9,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "E",
+            "start": 117.76,
+            "end": 117.9
+        }]
+    },
+    {
+        "word": "minha",
+        "start": 118.0,
+        "end": 118.46,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "mi",
+            "start": 118.0,
+            "end": 118.07
+        },
+        {
+            "syllable": "nha",
+            "start": 118.07,
+            "end": 118.46
+        }]
+    },
+    {
+        "word": "vida",
+        "start": 118.46,
+        "end": 119.01,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "vi",
+            "start": 118.46,
+            "end": 118.56
+        },
+        {
+            "syllable": "da",
+            "start": 118.56,
+            "end": 119.01
+        }]
+    },
+    {
+        "word": "esqueci",
+        "start": 119.01,
+        "end": 120.87,
+        "score": 0.79,
+        "syllables": [
+        {
+            "syllable": "es",
+            "start": 119.01,
+            "end": 119.57
+        },
+        {
+            "syllable": "que",
+            "start": 119.57,
+            "end": 120.37
+        },
+        {
+            "syllable": "ci",
+            "start": 120.37,
+            "end": 120.87
+        }]
+    }]
+},
+{
+    "start": 124.17,
+    "end": 129.2,
+    "text": "Quem quiser que fale de mim, 't\u00f4 nem a\u00ed, 't\u00f4 nem a\u00ed",
+    "language": "portuguese",
+    "words": [
+    {
+        "word": "Quem",
+        "start": 124.17,
+        "end": 124.59,
+        "score": 0.92,
+        "syllables": [
+        {
+            "syllable": "Quem",
+            "start": 124.17,
+            "end": 124.59
+        }]
+    },
+    {
+        "word": "quiser",
+        "start": 124.66,
+        "end": 125.07,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "qui",
+            "start": 124.66,
+            "end": 124.76
+        },
+        {
+            "syllable": "ser",
+            "start": 124.76,
+            "end": 125.07
+        }]
+    },
+    {
+        "word": "que",
+        "start": 125.07,
+        "end": 125.35,
+        "score": 0.97,
+        "syllables": [
+        {
+            "syllable": "que",
+            "start": 125.07,
+            "end": 125.35
+        }]
+    },
+    {
+        "word": "fale",
+        "start": 125.53,
+        "end": 126.22,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "fa",
+            "start": 125.53,
+            "end": 125.67
+        },
+        {
+            "syllable": "le",
+            "start": 125.67,
+            "end": 126.22
+        }]
+    },
+    {
+        "word": "de",
+        "start": 126.22,
+        "end": 126.33,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "de",
+            "start": 126.22,
+            "end": 126.33
+        }]
+    },
+    {
+        "word": "mim,",
+        "start": 126.43,
+        "end": 126.57,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "mim,",
+            "start": 126.43,
+            "end": 126.57
+        }]
+    },
+    {
+        "word": "'t\u00f4",
+        "start": 127.13,
+        "end": 127.27,
+        "score": 0.54,
+        "syllables": [
+        {
+            "syllable": "'t\u00f4",
+            "start": 127.13,
+            "end": 127.27
+        }]
+    },
+    {
+        "word": "nem",
+        "start": 127.37,
+        "end": 127.48,
+        "score": 0.78,
+        "syllables": [
+        {
+            "syllable": "nem",
+            "start": 127.37,
+            "end": 127.48
+        }]
+    },
+    {
+        "word": "a\u00ed,",
+        "start": 127.55,
+        "end": 127.86,
+        "score": 0.97,
+        "syllables": [
+        {
+            "syllable": "a\u00ed,",
+            "start": 127.55,
+            "end": 127.86
+        }]
+    },
+    {
+        "word": "'t\u00f4",
+        "start": 128.31,
+        "end": 128.45,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "'t\u00f4",
+            "start": 128.31,
+            "end": 128.45
+        }]
+    },
+    {
+        "word": "nem",
+        "start": 128.56,
+        "end": 128.66,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "nem",
+            "start": 128.56,
+            "end": 128.66
+        }]
+    },
+    {
+        "word": "a\u00ed",
+        "start": 128.7,
+        "end": 129.2,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "a\u00ed",
+            "start": 128.7,
+            "end": 129.2
+        }]
+    }]
+},
+{
+    "start": 130.75,
+    "end": 137.14,
+    "text": "E pra ele s\u00f3 tenho a dizer",
+    "language": "portuguese",
+    "words": [
+    {
+        "word": "E",
+        "start": 130.75,
+        "end": 130.86,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "E",
+            "start": 130.75,
+            "end": 130.86
+        }]
+    },
+    {
+        "word": "pra",
+        "start": 131.1,
+        "end": 131.2,
+        "score": 0.92,
+        "syllables": [
+        {
+            "syllable": "pra",
+            "start": 131.1,
+            "end": 131.2
+        }]
+    },
+    {
+        "word": "ele",
+        "start": 131.45,
+        "end": 131.8,
+        "score": 0.83,
+        "syllables": [
+        {
+            "syllable": "ele",
+            "start": 131.45,
+            "end": 131.8
+        }]
+    },
+    {
+        "word": "s\u00f3",
+        "start": 132.04,
+        "end": 132.18,
+        "score": 0.9,
+        "syllables": [
+        {
+            "syllable": "s\u00f3",
+            "start": 132.04,
+            "end": 132.18
+        }]
+    },
+    {
+        "word": "tenho",
+        "start": 132.39,
+        "end": 133.36,
+        "score": 0.1,
+        "syllables": [
+        {
+            "syllable": "te",
+            "start": 132.39,
+            "end": 132.46
+        },
+        {
+            "syllable": "nho",
+            "start": 132.46,
+            "end": 133.36
+        }]
+    },
+    {
+        "word": "a",
+        "start": 133.36,
+        "end": 133.47,
+        "score": 0.97,
+        "syllables": [
+        {
+            "syllable": "a",
+            "start": 133.36,
+            "end": 133.47
+        }]
+    },
+    {
+        "word": "dizer",
+        "start": 135.87,
+        "end": 137.14,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "di",
+            "start": 135.87,
+            "end": 136.05
+        },
+        {
+            "syllable": "zer",
+            "start": 136.05,
+            "end": 137.14
+        }]
+    }]
+},
+{
+    "start": 139.01,
+    "end": 141.98,
+    "text": "Se quiser fumar, eu fumo",
+    "language": "portuguese",
+    "words": [
+    {
+        "word": "Se",
+        "start": 139.01,
+        "end": 139.11,
+        "score": 0.92,
+        "syllables": [
+        {
+            "syllable": "Se",
+            "start": 139.01,
+            "end": 139.11
+        }]
+    },
+    {
+        "word": "quiser",
+        "start": 139.15,
+        "end": 139.95,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "qui",
+            "start": 139.15,
+            "end": 139.46
+        },
+        {
+            "syllable": "ser",
+            "start": 139.46,
+            "end": 139.95
+        }]
+    },
+    {
+        "word": "fumar,",
+        "start": 139.95,
+        "end": 140.75,
+        "score": 0.97,
+        "syllables": [
+        {
+            "syllable": "fu",
+            "start": 139.95,
+            "end": 140.09
+        },
+        {
+            "syllable": "mar,",
+            "start": 140.09,
+            "end": 140.75
+        }]
+    },
+    {
+        "word": "eu",
+        "start": 140.75,
+        "end": 140.92,
+        "score": 0.89,
+        "syllables": [
+        {
+            "syllable": "eu",
+            "start": 140.75,
+            "end": 140.92
+        }]
+    },
+    {
+        "word": "fumo",
+        "start": 141.03,
+        "end": 141.98,
+        "score": 0.68,
+        "syllables": [
+        {
+            "syllable": "fu",
+            "start": 141.03,
+            "end": 141.17
+        },
+        {
+            "syllable": "mo",
+            "start": 141.17,
+            "end": 141.98
+        }]
+    }]
+},
+{
+    "start": 142.38,
+    "end": 145.46,
+    "text": "Se quiser beber, eu bebo",
+    "language": "portuguese",
+    "words": [
+    {
+        "word": "Se",
+        "start": 142.38,
+        "end": 142.52,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "Se",
+            "start": 142.38,
+            "end": 142.52
+        }]
+    },
+    {
+        "word": "quiser",
+        "start": 142.63,
+        "end": 143.43,
+        "score": 0.96,
+        "syllables": [
+        {
+            "syllable": "qui",
+            "start": 142.63,
+            "end": 142.84
+        },
+        {
+            "syllable": "ser",
+            "start": 142.84,
+            "end": 143.43
+        }]
+    },
+    {
+        "word": "beber,",
+        "start": 143.43,
+        "end": 144.02,
+        "score": 0.97,
+        "syllables": [
+        {
+            "syllable": "be",
+            "start": 143.43,
+            "end": 143.5
+        },
+        {
+            "syllable": "ber,",
+            "start": 143.5,
+            "end": 144.02
+        }]
+    },
+    {
+        "word": "eu",
+        "start": 144.02,
+        "end": 144.4,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "eu",
+            "start": 144.02,
+            "end": 144.4
+        }]
+    },
+    {
+        "word": "bebo",
+        "start": 144.44,
+        "end": 145.46,
+        "score": 0.66,
+        "syllables": [
+        {
+            "syllable": "be",
+            "start": 144.44,
+            "end": 144.58
+        },
+        {
+            "syllable": "bo",
+            "start": 144.58,
+            "end": 145.46
+        }]
+    }]
+},
+{
+    "start": 146.43,
+    "end": 149.85,
+    "text": "Minha liberdade 't\u00e1 a\u00ed, 't\u00e1 a\u00ed",
+    "language": "portuguese",
+    "words": [
+    {
+        "word": "Minha",
+        "start": 146.43,
+        "end": 146.67,
+        "score": 0.94,
+        "syllables": [
+        {
+            "syllable": "Mi",
+            "start": 146.43,
+            "end": 146.53
+        },
+        {
+            "syllable": "nha",
+            "start": 146.53,
+            "end": 146.67
+        }]
+    },
+    {
+        "word": "liberdade",
+        "start": 146.67,
+        "end": 147.5,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "li",
+            "start": 146.67,
+            "end": 146.74
+        },
+        {
+            "syllable": "ber",
+            "start": 146.74,
+            "end": 147.12
+        },
+        {
+            "syllable": "da",
+            "start": 147.12,
+            "end": 147.3
+        },
+        {
+            "syllable": "de",
+            "start": 147.3,
+            "end": 147.5
+        }]
+    },
+    {
+        "word": "'t\u00e1",
+        "start": 147.5,
+        "end": 147.64,
+        "score": 0.92,
+        "syllables": [
+        {
+            "syllable": "'t\u00e1",
+            "start": 147.5,
+            "end": 147.64
+        }]
+    },
+    {
+        "word": "a\u00ed,",
+        "start": 147.85,
+        "end": 147.99,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "a\u00ed,",
+            "start": 147.85,
+            "end": 147.99
+        }]
+    },
+    {
+        "word": "'t\u00e1",
+        "start": 149.0,
+        "end": 149.11,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "'t\u00e1",
+            "start": 149.0,
+            "end": 149.11
+        }]
+    },
+    {
+        "word": "a\u00ed",
+        "start": 149.35,
+        "end": 149.85,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "a\u00ed",
+            "start": 149.35,
+            "end": 149.85
+        }]
+    }]
+},
+{
+    "start": 152.21,
+    "end": 154.8,
+    "text": "Se quiser sair, eu saio",
+    "language": "portuguese",
+    "words": [
+    {
+        "word": "Se",
+        "start": 152.21,
+        "end": 152.31,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "Se",
+            "start": 152.21,
+            "end": 152.31
+        }]
+    },
+    {
+        "word": "quiser",
+        "start": 152.35,
+        "end": 153.22,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "qui",
+            "start": 152.35,
+            "end": 152.66
+        },
+        {
+            "syllable": "ser",
+            "start": 152.66,
+            "end": 153.22
+        }]
+    },
+    {
+        "word": "sair,",
+        "start": 153.22,
+        "end": 153.63,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "sair,",
+            "start": 153.22,
+            "end": 153.63
+        }]
+    },
+    {
+        "word": "eu",
+        "start": 153.67,
+        "end": 154.12,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "eu",
+            "start": 153.67,
+            "end": 154.12
+        }]
+    },
+    {
+        "word": "saio",
+        "start": 154.3,
+        "end": 154.8,
+        "score": 0.6,
+        "syllables": [
+        {
+            "syllable": "saio",
+            "start": 154.3,
+            "end": 154.8
+        }]
+    }]
+},
+{
+    "start": 155.86,
+    "end": 158.87,
+    "text": "Com quem me der vontade",
+    "language": "portuguese",
+    "words": [
+    {
+        "word": "Com",
+        "start": 155.86,
+        "end": 156.04,
+        "score": 0.97,
+        "syllables": [
+        {
+            "syllable": "Com",
+            "start": 155.86,
+            "end": 156.04
+        }]
+    },
+    {
+        "word": "quem",
+        "start": 156.11,
+        "end": 156.32,
+        "score": 0.97,
+        "syllables": [
+        {
+            "syllable": "quem",
+            "start": 156.11,
+            "end": 156.32
+        }]
+    },
+    {
+        "word": "me",
+        "start": 156.35,
+        "end": 156.42,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "me",
+            "start": 156.35,
+            "end": 156.42
+        }]
+    },
+    {
+        "word": "der",
+        "start": 156.67,
+        "end": 157.08,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "der",
+            "start": 156.67,
+            "end": 157.08
+        }]
+    },
+    {
+        "word": "vontade",
+        "start": 157.15,
+        "end": 158.87,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "von",
+            "start": 157.15,
+            "end": 157.43
+        },
+        {
+            "syllable": "ta",
+            "start": 157.43,
+            "end": 158.37
+        },
+        {
+            "syllable": "de",
+            "start": 158.37,
+            "end": 158.87
+        }]
+    }]
+},
+{
+    "start": 159.52,
+    "end": 162.98,
+    "text": "Minha liberdade t\u00e1 a\u00ed, t\u00e1 a\u00ed",
+    "language": "portuguese",
+    "words": [
+    {
+        "word": "Minha",
+        "start": 159.52,
+        "end": 159.73,
+        "score": 0.93,
+        "syllables": [
+        {
+            "syllable": "Mi",
+            "start": 159.52,
+            "end": 159.63
+        },
+        {
+            "syllable": "nha",
+            "start": 159.63,
+            "end": 159.73
+        }]
+    },
+    {
+        "word": "liberdade",
+        "start": 159.73,
+        "end": 160.57,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "li",
+            "start": 159.73,
+            "end": 159.8
+        },
+        {
+            "syllable": "ber",
+            "start": 159.8,
+            "end": 160.18
+        },
+        {
+            "syllable": "da",
+            "start": 160.18,
+            "end": 160.43
+        },
+        {
+            "syllable": "de",
+            "start": 160.43,
+            "end": 160.57
+        }]
+    },
+    {
+        "word": "t\u00e1",
+        "start": 160.57,
+        "end": 160.67,
+        "score": 0.42,
+        "syllables": [
+        {
+            "syllable": "t\u00e1",
+            "start": 160.57,
+            "end": 160.67
+        }]
+    },
+    {
+        "word": "a\u00ed,",
+        "start": 160.84,
+        "end": 161.26,
+        "score": 0.95,
+        "syllables": [
+        {
+            "syllable": "a\u00ed,",
+            "start": 160.84,
+            "end": 161.26
+        }]
+    },
+    {
+        "word": "t\u00e1",
+        "start": 162.03,
+        "end": 162.13,
+        "score": 0.93,
+        "syllables": [
+        {
+            "syllable": "t\u00e1",
+            "start": 162.03,
+            "end": 162.13
+        }]
+    },
+    {
+        "word": "a\u00ed",
+        "start": 162.48,
+        "end": 162.98,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "a\u00ed",
+            "start": 162.48,
+            "end": 162.98
+        }]
+    }]
+},
+{
+    "start": 165.79,
+    "end": 168.03,
+    "text": "N\u00e3o devo nada a ningu\u00e9m",
+    "language": "portuguese",
+    "words": [
+    {
+        "word": "N\u00e3o",
+        "start": 165.79,
+        "end": 166.03,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "N\u00e3o",
+            "start": 165.79,
+            "end": 166.03
+        }]
+    },
+    {
+        "word": "devo",
+        "start": 166.07,
+        "end": 166.66,
+        "score": 0.9,
+        "syllables": [
+        {
+            "syllable": "de",
+            "start": 166.07,
+            "end": 166.17
+        },
+        {
+            "syllable": "vo",
+            "start": 166.17,
+            "end": 166.66
+        }]
+    },
+    {
+        "word": "nada",
+        "start": 166.66,
+        "end": 167.18,
+        "score": 0.97,
+        "syllables": [
+        {
+            "syllable": "na",
+            "start": 166.66,
+            "end": 166.77
+        },
+        {
+            "syllable": "da",
+            "start": 166.77,
+            "end": 167.18
+        }]
+    },
+    {
+        "word": "a",
+        "start": 167.18,
+        "end": 167.22,
+        "score": 0.92,
+        "syllables": [
+        {
+            "syllable": "a",
+            "start": 167.18,
+            "end": 167.22
+        }]
+    },
+    {
+        "word": "ningu\u00e9m",
+        "start": 167.29,
+        "end": 168.03,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "nin",
+            "start": 167.29,
+            "end": 167.39
+        },
+        {
+            "syllable": "gu\u00e9m",
+            "start": 167.39,
+            "end": 168.03
+        }]
+    }]
+},
+{
+    "start": 172.3,
+    "end": 174.48,
+    "text": "N\u00e3o devo nada a ningu\u00e9m",
+    "language": "portuguese",
+    "words": [
+    {
+        "word": "N\u00e3o",
+        "start": 172.3,
+        "end": 172.55,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "N\u00e3o",
+            "start": 172.3,
+            "end": 172.55
+        }]
+    },
+    {
+        "word": "devo",
+        "start": 172.65,
+        "end": 173.14,
+        "score": 0.94,
+        "syllables": [
+        {
+            "syllable": "de",
+            "start": 172.65,
+            "end": 172.72
+        },
+        {
+            "syllable": "vo",
+            "start": 172.72,
+            "end": 173.14
+        }]
+    },
+    {
+        "word": "nada",
+        "start": 173.14,
+        "end": 173.45,
+        "score": 0.96,
+        "syllables": [
+        {
+            "syllable": "na",
+            "start": 173.14,
+            "end": 173.21
+        },
+        {
+            "syllable": "da",
+            "start": 173.21,
+            "end": 173.45
+        }]
+    },
+    {
+        "word": "a",
+        "start": 173.45,
+        "end": 173.52,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "a",
+            "start": 173.45,
+            "end": 173.52
+        }]
+    },
+    {
+        "word": "ningu\u00e9m",
+        "start": 173.73,
+        "end": 174.48,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "nin",
+            "start": 173.73,
+            "end": 173.87
+        },
+        {
+            "syllable": "gu\u00e9m",
+            "start": 173.87,
+            "end": 174.48
+        }]
+    }]
+},
+{
+    "start": 178.09,
+    "end": 181.51,
+    "text": "N\u00e3o t\u00f4 comendo nada de ningu\u00e9m",
+    "language": "portuguese",
+    "words": [
+    {
+        "word": "N\u00e3o",
+        "start": 178.09,
+        "end": 178.22,
+        "score": 0.97,
+        "syllables": [
+        {
+            "syllable": "N\u00e3o",
+            "start": 178.09,
+            "end": 178.22
+        }]
+    },
+    {
+        "word": "t\u00f4",
+        "start": 178.36,
+        "end": 178.47,
+        "score": 0.4,
+        "syllables": [
+        {
+            "syllable": "t\u00f4",
+            "start": 178.36,
+            "end": 178.47
+        }]
+    },
+    {
+        "word": "comendo",
+        "start": 178.61,
+        "end": 179.34,
+        "score": 0.78,
+        "syllables": [
+        {
+            "syllable": "co",
+            "start": 178.61,
+            "end": 178.75
+        },
+        {
+            "syllable": "men",
+            "start": 178.75,
+            "end": 179.13
+        },
+        {
+            "syllable": "do",
+            "start": 179.13,
+            "end": 179.34
+        }]
+    },
+    {
+        "word": "nada",
+        "start": 179.34,
+        "end": 180.31,
+        "score": 0.97,
+        "syllables": [
+        {
+            "syllable": "na",
+            "start": 179.34,
+            "end": 179.44
+        },
+        {
+            "syllable": "da",
+            "start": 179.44,
+            "end": 180.31
+        }]
+    },
+    {
+        "word": "de",
+        "start": 180.31,
+        "end": 180.45,
+        "score": 0.93,
+        "syllables": [
+        {
+            "syllable": "de",
+            "start": 180.31,
+            "end": 180.45
+        }]
+    },
+    {
+        "word": "ningu\u00e9m",
+        "start": 180.73,
+        "end": 181.51,
+        "score": 0.98,
+        "syllables": [
+        {
+            "syllable": "nin",
+            "start": 180.73,
+            "end": 180.91
+        },
+        {
+            "syllable": "gu\u00e9m",
+            "start": 180.91,
+            "end": 181.51
+        }]
+    }]
+},
+{
+    "start": 184.98,
+    "end": 192.73,
+    "text": "N\u00e3o devo mais nada a ningu\u00e9m, s\u00f3 Deus",
+    "language": "portuguese",
+    "words": [
+    {
+        "word": "N\u00e3o",
+        "start": 184.98,
+        "end": 185.26,
+        "score": 0.95,
+        "syllables": [
+        {
+            "syllable": "N\u00e3o",
+            "start": 184.98,
+            "end": 185.26
+        }]
+    },
+    {
+        "word": "devo",
+        "start": 185.4,
+        "end": 185.92,
+        "score": 0.94,
+        "syllables": [
+        {
+            "syllable": "de",
+            "start": 185.4,
+            "end": 185.47
+        },
+        {
+            "syllable": "vo",
+            "start": 185.47,
+            "end": 185.92
+        }]
+    },
+    {
+        "word": "mais",
+        "start": 185.92,
+        "end": 186.2,
+        "score": 0.97,
+        "syllables": [
+        {
+            "syllable": "mais",
+            "start": 185.92,
+            "end": 186.2
+        }]
+    },
+    {
+        "word": "nada",
+        "start": 186.27,
+        "end": 186.55,
+        "score": 0.96,
+        "syllables": [
+        {
+            "syllable": "na",
+            "start": 186.27,
+            "end": 186.37
+        },
+        {
+            "syllable": "da",
+            "start": 186.37,
+            "end": 186.55
+        }]
+    },
+    {
+        "word": "a",
+        "start": 186.55,
+        "end": 186.62,
+        "score": 0.91,
+        "syllables": [
+        {
+            "syllable": "a",
+            "start": 186.55,
+            "end": 186.62
+        }]
+    },
+    {
+        "word": "ningu\u00e9m,",
+        "start": 186.79,
+        "end": 187.77,
+        "score": 0.99,
+        "syllables": [
+        {
+            "syllable": "nin",
+            "start": 186.79,
+            "end": 187.0
+        },
+        {
+            "syllable": "gu\u00e9m,",
+            "start": 187.0,
+            "end": 187.77
+        }]
+    },
+    {
+        "word": "s\u00f3",
+        "start": 187.77,
+        "end": 192.05,
+        "score": 0.93,
+        "syllables": [
+        {
+            "syllable": "s\u00f3",
+            "start": 187.77,
+            "end": 192.05
+        }]
+    },
+    {
+        "word": "Deus",
+        "start": 192.23,
+        "end": 192.73,
+        "score": 0.75,
+        "syllables": [
+        {
+            "syllable": "Deus",
+            "start": 192.23,
+            "end": 192.73
+        }]
+    }]
+}]
