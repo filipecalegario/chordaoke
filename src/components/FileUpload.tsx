@@ -31,9 +31,9 @@ const FileUpload: React.FC = () => {
 
       const arrayBuffer = await file.arrayBuffer();
       const audioBuffer = await audioContext?.decodeAudioData(arrayBuffer);
-      
+
       if (audioBuffer) {
-        useKaraokeStore.setState({ 
+        useKaraokeStore.setState({
           audioBuffer,
           duration: audioBuffer.duration
         });
@@ -88,7 +88,7 @@ const FileUpload: React.FC = () => {
   const renderUploadStatus = (type: keyof UploadStatus) => {
     const status = uploadStatus[type];
     return (
-      <div className="mt-1 text-sm">
+      <div className="mt-2 text-sm min-h-[24px]">
         {status.status === 'success' && (
           <div className="flex items-center text-green-600">
             <CheckCircle className="w-4 h-4 mr-1" />
@@ -120,10 +120,10 @@ const FileUpload: React.FC = () => {
   };
 
   return (
-    <div className="bg-white dark:bg-gray-800 rounded-lg shadow-lg p-6 max-w-md mx-auto">
-      <h2 className="text-xl font-semibold mb-6 text-center">Upload Files</h2>
-      
-      <div className="space-y-5">
+    <div className="fixed top-4 left-4 right-4 bg-white dark:bg-gray-800 rounded-lg shadow-lg p-4 max-w-md mx-auto">
+      <h2 className="text-lg font-semibold mb-4">Upload Files</h2>
+
+      <div className="space-y-4">
         <div>
           <label className="block text-sm font-medium mb-2">
             Audio File (.mp3, .wav, .ogg)
@@ -138,7 +138,7 @@ const FileUpload: React.FC = () => {
             />
             <label
               htmlFor="audio-upload"
-              className="flex items-center justify-center px-4 py-2 border border-gray-300 dark:border-gray-600 rounded-md cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-700 w-full"
+              className="flex items-center justify-center px-4 py-2 border border-gray-300 dark:border-gray-600 rounded-md cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-700"
             >
               <Upload className="w-5 h-5 mr-2" />
               Choose Audio File
@@ -161,7 +161,7 @@ const FileUpload: React.FC = () => {
             />
             <label
               htmlFor="chords-upload"
-              className="flex items-center justify-center px-4 py-2 border border-gray-300 dark:border-gray-600 rounded-md cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-700 w-full"
+              className="flex items-center justify-center px-4 py-2 border border-gray-300 dark:border-gray-600 rounded-md cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-700"
             >
               <Upload className="w-5 h-5 mr-2" />
               Choose Chords File
@@ -184,7 +184,7 @@ const FileUpload: React.FC = () => {
             />
             <label
               htmlFor="lyrics-upload"
-              className="flex items-center justify-center px-4 py-2 border border-gray-300 dark:border-gray-600 rounded-md cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-700 w-full"
+              className="flex items-center justify-center px-4 py-2 border border-gray-300 dark:border-gray-600 rounded-md cursor-pointer hover:bg-gray-50 dark:hover:bg-gray-700"
             >
               <Upload className="w-5 h-5 mr-2" />
               Choose Lyrics File
@@ -192,21 +192,22 @@ const FileUpload: React.FC = () => {
           </div>
           {renderUploadStatus('lyrics')}
         </div>
-
-        <button
-          onClick={handleStartPlayback}
-          disabled={!allFilesUploaded}
-          className={`mt-6 w-full flex items-center justify-center px-4 py-3 rounded-md text-white font-medium ${
-            allFilesUploaded
-              ? 'bg-blue-600 hover:bg-blue-700'
-              : 'bg-gray-400 cursor-not-allowed'
-          }`}
-        >
-          <Play className="w-5 h-5 mr-2" />
-          Start Playback
-        </button>
       </div>
+
+
+      <button
+        onClick={handleStartPlayback}
+        disabled={!allFilesUploaded}
+        className={`mt-8 w-full flex items-center justify-center px-4 py-2 rounded-md text-white font-small text-lg ${allFilesUploaded
+            ? 'bg-blue-600 hover:bg-blue-700'
+            : 'bg-gray-400 cursor-not-allowed'
+          }`}
+      >
+        <Play className="w-6 h-6 mr-2" />
+        Start Playback
+      </button>
     </div>
+
   );
 };
 

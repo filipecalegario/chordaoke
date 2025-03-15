@@ -21,7 +21,7 @@ function App() {
     <div className="min-h-screen bg-gray-50 dark:bg-gray-900">
       {!isPlaybackMode ? (
         // Upload Page
-        <div className="flex items-center justify-center min-h-screen py-8">
+        <div className="flex items-center justify-center min-h-screen py-16 px-6">
           <FileUpload />
         </div>
       ) : (
