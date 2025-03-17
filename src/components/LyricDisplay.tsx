@@ -1,6 +1,6 @@
 import React, { useMemo, useCallback } from 'react';
 import useKaraokeStore from '../store';
-import { LyricLine, Word } from '../types';
+import type { LyricLine, Word } from '../types';
 
 const WordComponent = React.memo(({ word, isActive }: { word: Word; isActive: boolean }) => (
   <>

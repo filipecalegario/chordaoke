@@ -1,4 +1,4 @@
-import React, { useEffect } from 'react';
+import { useEffect } from 'react';
 import ChordDisplay from './components/ChordDisplay';
 import LyricDisplay from './components/LyricDisplay';
 import Controls from './components/Controls';
@@ -6,14 +6,13 @@ import FileUpload from './components/FileUpload';
 import useKaraokeStore from './store';
 
 function App() {
-  const { isPlaybackMode, audioBuffer, lyrics, chords } = useKaraokeStore();
-
-  const initializeAudio = async () => {
-    const audioContext = new AudioContext();
-    useKaraokeStore.setState({ audioContext });
-  };
+  const { isPlaybackMode } = useKaraokeStore();
 
   useEffect(() => {
+    const initializeAudio = async () => {
+      const audioContext = new AudioContext();
+      useKaraokeStore.setState({ audioContext });
+    };
     initializeAudio();
   }, []);
 
