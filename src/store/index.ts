@@ -1,5 +1,5 @@
 import { create } from 'zustand';
-import { KaraokeState } from '../types';
+import type { KaraokeState } from '../types';
 
 const useKaraokeStore = create<KaraokeState>((set, get) => ({
   audioContext: null,

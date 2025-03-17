@@ -42,7 +42,8 @@ const FileUpload: React.FC = () => {
           audio: { status: 'success', message: 'Audio file loaded successfully' }
         }));
       }
-    } catch (error) {
+    } catch (e) {
+      console.error(e);
       setUploadStatus(prev => ({
         ...prev,
         audio: { status: 'error', message: 'Failed to load audio file' }
@@ -77,7 +78,8 @@ const FileUpload: React.FC = () => {
         ...prev,
         [type]: { status: 'success', message: `${type} file loaded successfully` }
       }));
-    } catch (error) {
+    } catch (e) {
+      console.error(e);
       setUploadStatus(prev => ({
         ...prev,
         [type]: { status: 'error', message: `Failed to load ${type} file` }
@@ -125,7 +127,7 @@ const FileUpload: React.FC = () => {
 
       <div className="space-y-4">
         <div>
-          <label className="block text-sm font-medium mb-2">
+          <label htmlFor="audio-upload" className="block text-sm font-medium mb-2">
             Audio File (.mp3, .wav, .ogg)
           </label>
           <div className="relative">
@@ -148,7 +150,7 @@ const FileUpload: React.FC = () => {
         </div>
 
         <div>
-          <label className="block text-sm font-medium mb-2">
+          <label htmlFor="chords-upload" className="block text-sm font-medium mb-2">
             Chords File (.json)
           </label>
           <div className="relative">
@@ -171,7 +173,7 @@ const FileUpload: React.FC = () => {
         </div>
 
         <div>
-          <label className="block text-sm font-medium mb-2">
+          <label htmlFor="lyrics-upload" className="block text-sm font-medium mb-2">
             Lyrics File (.json)
           </label>
           <div className="relative">
@@ -196,6 +198,7 @@ const FileUpload: React.FC = () => {
 
 
       <button
+        type="button"
         onClick={handleStartPlayback}
         disabled={!allFilesUploaded}
         className={`mt-8 w-full flex items-center justify-center px-4 py-2 rounded-md text-white font-small text-lg ${allFilesUploaded

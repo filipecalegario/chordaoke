@@ -1,4 +1,3 @@
-import React from 'react';
 import * as Slider from '@radix-ui/react-slider';
 import { Play, Pause, Volume2, VolumeX, Upload } from 'lucide-react';
 import useKaraokeStore from '../store';
@@ -68,6 +67,7 @@ const Controls: React.FC = () => {
           onClick={handlePlayPause}
           className="p-2 rounded-full hover:bg-gray-100 dark:hover:bg-gray-700 disabled:opacity-50 disabled:cursor-not-allowed"
           disabled={!audioBuffer}
+          type="button"
         >
           {isPlaying ? (
             <Pause className="w-6 h-6" />
@@ -102,6 +102,7 @@ const Controls: React.FC = () => {
             onClick={toggleMute}
             className="p-2 rounded-full hover:bg-gray-100 dark:hover:bg-gray-700"
             disabled={!audioBuffer}
+            type="button"
           >
             {isMuted ? (
               <VolumeX className="w-5 h-5" />
@@ -130,6 +131,7 @@ const Controls: React.FC = () => {
         <button
           onClick={handleBackToUpload}
           className="ml-auto p-2 flex items-center gap-1 text-sm rounded bg-gray-100 hover:bg-gray-200 dark:bg-gray-700 dark:hover:bg-gray-600"
+          type="button"
         >
           <Upload className="w-4 h-4" />
           <span>Back to Upload</span>
